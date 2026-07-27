@@ -23,5 +23,4 @@
 - Email: pritymayeerout@gmail.com
 
 
-- ⚡ Fun fact: ...
--->
+
