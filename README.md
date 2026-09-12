@@ -1,5 +1,5 @@
 <p align="center">
- <img src=""C:\Users\Priti\Downloads\download (1).jpg"">
+ <img src="C:\Users\Priti\Downloads\download (1).jpg">
 </p>
 
 <h1 align="center">
