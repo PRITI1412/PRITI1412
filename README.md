@@ -26,6 +26,7 @@ Python Developer | FastAPI | PostgreSQL
 
 💻 Skills
 - Python
+- Core Java
 - FastAPI
 - Django
 - SQL
