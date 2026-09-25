@@ -36,7 +36,7 @@ Python Developer | FastAPI | PostgreSQL
 📫 Reach me
 - Email: pritymayeerout@gmail.com
 - Linkdin: www.linkedin.com/in/pritimayee-rout-7899442a9
-- Contact: 8763926720
+
 
 
 
