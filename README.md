@@ -30,6 +30,7 @@ Python Developer | FastAPI | PostgreSQL
 - FastAPI
 - Django
 - SQL
+- -MY SQL
 - HTML & CSS
 - Git & GitHub
 
