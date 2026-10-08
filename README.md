@@ -39,7 +39,33 @@ Python Developer | FastAPI | REST APIs | PostgreSQL
 - Email: pritymayeerout@gmail.com
 - Linkdin: www.linkedin.com/in/pritimayee-rout-7899442a9
 
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <img
+        src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=PRITI1412&theme=github_dark&utcOffset=5.5"
+        width="100%"
+      />
+    </td>
+    <td align="center" width="50%">
+      <img
+        src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PRITI1412&theme=github_dark"
+        width="100%"
+      />
+    </td>
+  </tr>
 
+  <tr>
+    <td align="center" width="50%">
+      <img
+        src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=PRITI1412&theme=github_dark"
+        width="100%"
+      />
+    </td>
+    <td align="center" width="50%">
+    </td>
+  </tr>
+</table>
 
 
 
