@@ -33,6 +33,7 @@ Python Developer | FastAPI | REST APIs | PostgreSQL
 - MY SQL
 - HTML & CSS
 - Oops
+- CN
 - Git & GitHub
 
 📫 Reach me
