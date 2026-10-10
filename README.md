@@ -48,12 +48,7 @@ Python Developer | FastAPI | REST APIs | PostgreSQL
         width="100%"
       />
     </td>
-    <td align="center" width="50%">
-      <img
-        src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PRITI1412&theme=github_dark"
-        width="100%"
-      />
-    </td>
+    
   </tr>
 
   <tr>
