@@ -23,6 +23,7 @@ Python Developer | FastAPI | REST APIs | PostgreSQL
 - SQLAlchemy
 - PostgreSQL
 - REST APIs
+- Docker
 
 💻 Skills
 - Python
