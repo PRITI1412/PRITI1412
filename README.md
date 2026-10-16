@@ -51,7 +51,7 @@ Python Developer | FastAPI | REST APIs | PostgreSQL
     </td>
     <td align="center" width="50%">
       <img
-        src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ashu8083&theme=github_dark"
+        src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PRITI1412&theme=github_dark"
         width="100%"
       />
     </td>
