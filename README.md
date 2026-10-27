@@ -7,7 +7,7 @@ Hii 👋, I'm Pritimayee Rout
 </h1>
 
 <h3 align="center">
-Python Developer | FastAPI | REST APIs | PostgreSQL
+Python Developer | Fast API | REST APIs | Django | PostgreSQL
 </h3>
 
 <p align="center">
