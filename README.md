@@ -28,7 +28,6 @@ Python Developer | Fast API | REST APIs | Django | PostgreSQL
 💻 Skills
 - Python
 - Core Java
-- FastAPI
 - Django
 - SQL
 - MY SQL
