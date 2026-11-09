@@ -39,7 +39,6 @@ Python Developer | Backend Developer | Fast API | REST APIs | Django | PostgreSQ
 📫 Reach me
 - Email: pritymayeerout@gmail.com
 - Linkdin: www.linkedin.com/in/pritimayee-rout-7899442a9
-- Phone No: 8763926720
 
 <table align="center">
   <tr>
